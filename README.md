@@ -15,3 +15,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/obr-note/contributions.svg" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrkn)](https://github.com/anuraghazra/github-readme-stats)
