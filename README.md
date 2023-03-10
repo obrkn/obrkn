@@ -17,3 +17,5 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obrkn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=obrkn)](https://github.com/ryo-ma/github-profile-trophy)
