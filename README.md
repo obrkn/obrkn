@@ -2,9 +2,6 @@
   <a href="https://github.com/obrkn/obrkn/">
     <img src="https://komarev.com/ghpvc/?username=obrkn" alt="obrkn" />
   </a>
-  <a href="http://twitter.com/2_obr">
-    <img height="20" src="https://img.shields.io/twitter/follow/2_obr?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/obrkn">
     <img height="20" src="https://img.shields.io/github/followers/obrkn?label=follow&logo=github&style=flat" />
   </a>
